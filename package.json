@@ -1,0 +1,29 @@
+{
+  "name": "typescript-seed",
+  "version": "0.0.0",
+  "description": "Typescript + Jest testing coverage + tslint",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaLopCam/typescript-seed.git"
+  },
+  "author": "Joaquin Lopez Campos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaLopCam/typescript-seed/issues"
+  },
+  "homepage": "https://github.com/JoaLopCam/typescript-seed#readme",
+  "devDependencies": {
+    "jest": "^24.1.0",
+    "ts-lint": "^4.5.1",
+    "tslint-config-airbnb": "^5.11.1",
+    "typescript": "^3.3.3"
+  },
+  "dependencies": {
+    "@types/jest": "^24.0.0",
+    "@types/node": "^10.12.24"
+  }
+}
