@@ -70,6 +70,10 @@ npm install
 
 ### How to use it
 
+##### Compile && launch app (dist/index.js)
+
+`npm run start`
+
 ##### Compile all .ts files to .js in /dist folder
 
 `npm run compile`
