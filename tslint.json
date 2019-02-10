@@ -1,0 +1,16 @@
+{
+  "defaultSeverity": "error",
+  "extends": "tslint-config-airbnb",
+  "jsRules": {},
+  "rules": {
+    "eofline": false,
+    "quotemark": [true, "single"],
+    "no-empty-interface": true,
+    "no-unnecessary-type-assertion": true,
+    "adjacent-overload-signatures": true,
+    "no-duplicate-variable": true,
+    "triple-equals": true,
+    "prefer-template": true
+  },
+  "rulesDirectory": []
+}
