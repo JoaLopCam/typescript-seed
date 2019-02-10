@@ -4,6 +4,7 @@
   "description": "Typescript + Jest testing coverage + tslint",
   "main": "index.js",
   "scripts": {
+    "compile": "tsc",
     "test": "jest"
   },
   "repository": {
