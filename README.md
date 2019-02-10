@@ -34,6 +34,8 @@ npm install -g <package-name>
 
 | ✔ | [tslint](https://github.com/palantir/tslint) | ^5.12.1 |
 
+| ✔ | [parcel-budnler](https://github.com/parcel-bundler/parcel) | ^1.11.0 |
+
 ## Dependencies
 
 ```
@@ -47,6 +49,12 @@ npm install -D <package-name>
 | ✔ | [typescript](https://github.com/microsoft/typescript) | ^3.3.3 |
 
 | ✔ | [tslint](https://github.com/palantir/tslint) | ^5.12.1 |
+
+| ✔ | [parcel-budnler](https://github.com/parcel-bundler/parcel) | ^1.11.0 |
+
+| ✔ | [@types/jest](https://www.npmjs.com/package/@types/jest) | ^24.0.0 |
+
+| ✔ | [@types/node](https://www.npmjs.com/package/@types/node) | ^10.12.24 |
 
 ## Project setup
 
