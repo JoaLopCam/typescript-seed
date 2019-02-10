@@ -1,4 +1,4 @@
-# Typescript + Jest testing coverage + tslint
+# Typescript + Jest testing coverage + tslint UPDATED(10/02/2019)
 
 - [TypeScript](https://www.typescriptlang.org) 3.3.3 setup for experimental decorator support
 
